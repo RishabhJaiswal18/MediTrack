@@ -21,8 +21,8 @@ MediTrack is a console-based healthcare management system built using pure Core 
 - Streams & Lambdas
 
 ## How to Run
-javac Main.java
-java Main
+javac MediTrack.java
+java MediTrack
 
 ## Bonus Features
 - CSV persistence
